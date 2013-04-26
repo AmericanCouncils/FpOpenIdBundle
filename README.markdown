@@ -1,7 +1,7 @@
 FpOpenIdBundle
 ==============
 
-The FpOpenIdBundle adds support of [openid authentication](http://openid.net/) to symfony's security. It uses [LightOpenId](http://gitorious.org/lightopenid) as a relying party(client).
+The FpOpenIdBundle adds support of [openid authentication](http://openid.net/) to symfony's security. It uses [Opauth](https://github.com/opauth/opauth/) as a relying party(client).
 
 Features include:
 
